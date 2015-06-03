@@ -15,7 +15,7 @@ you can start rapid prototyping with budo.
 
 # Starter Kit I Made
 
-#### Isomorphic react starter - https://github.com/kenjiSpecial/isomorphic-react-starer
+#### Isomorphic React Starter - https://github.com/kenjiSpecial/isomorphic-react-starer
 
 Isomorphic react starter with server-side React rendering. I used [this list](https://github.com/kenjiSpecial/kenjiSpecial.github.io/blob/master/posts/jp/_posts/2015-05-31-react-rendering-on-server.md) to make it. 
 
@@ -23,7 +23,7 @@ Isomorphic react starter with server-side React rendering. I used [this list](ht
 
 starter kit for creating npm react module
 
-#### budo-gulp-react-starter - https://github.com/kenjiSpecial/budo-gulp-react-starter
+#### Budo Gulp React Starter - https://github.com/kenjiSpecial/budo-gulp-react-starter
 
 starter kit for building react app with gulp.
 
